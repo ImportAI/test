@@ -1,4 +1,3 @@
 hello,git!
 lalala
 222333 edit by hot_fix
-test git reset
